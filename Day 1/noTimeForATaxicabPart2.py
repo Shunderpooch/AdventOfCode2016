@@ -1,3 +1,9 @@
+"""
+Arthur Dooner
+Advent of Code Day 1
+Challenge 2
+"""
+
 import sys
 from enum import Enum
 
