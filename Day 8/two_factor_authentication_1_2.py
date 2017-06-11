@@ -6,14 +6,6 @@ Challenge 1
 import sys
 import re
 
-def contains_abba(input_string):
-    for index_tracker in range(0, len(input_string) - 3):
-        if (input_string[index_tracker + 1] == input_string[index_tracker + 2] and # In ABBA, B1 equals B2 check
-                input_string[index_tracker] == input_string[index_tracker + 3] and # In ABBA, A1 equals A2 check
-                input_string[index_tracker] != input_string[index_tracker + 1]): # In ABBA, A != B1 check
-            return True
-    return False
-
 def print_display(board_input):
     for board_row in board_input:
         printable_string = ""
