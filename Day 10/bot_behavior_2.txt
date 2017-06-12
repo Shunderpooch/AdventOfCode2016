@@ -1,0 +1,1799 @@
+Iteration 0:
+Bot 75 gives low to 145 gives high to 95.
+Iteration 1:
+Bot 116 gives low to 157 gives high to 197.
+Iteration 2:
+Bot 185 gives low to 57 gives high to 139.
+Iteration 3:
+Bot 202 gives low to 105 gives high to 209.
+Iteration 4:
+Bot 179 gives low to 20 gives high to 133.
+Iteration 5:
+Bot 114 gives low to 140 gives high to 51.
+Iteration 6:
+Bot 166 gives low to 95 gives high to 87.
+Iteration 7:
+Bot 57 gives low to 118 gives high to 32.
+Iteration 8:
+Bot 33 gives low to 141 gives high to 105.
+Iteration 9:
+Bot 68 gives low to 86 gives high to 25.
+Iteration 10:
+Bot 139 gives low to 32 gives high to 28.
+Iteration 11:
+Bot 18 gives low to 186 gives high to 136.
+Iteration 12:
+Bot 99 gives low to 41 gives high to 83.
+Iteration 13:
+Bot 155 gives low to 43 gives high to 78.
+Iteration 14:
+Bot 157 gives low to 55 gives high to 185.
+Iteration 15:
+Bot 204 gives low to 83 gives high to 54.
+Iteration 16:
+Bot 22 gives low to 187 gives high to 148.
+Iteration 17:
+Bot 48 gives low to 151 gives high to 160.
+Iteration 18:
+Bot 77 acquired value 7.
+Added 7 to 77
+Iteration 19:
+Bot 154 gives low to 138 gives high to 4.
+Iteration 20:
+Bot 206 gives low to 15 gives high to 203.
+Iteration 21:
+Bot 113 acquired value 11.
+Added 11 to 113
+Iteration 22:
+Bot 47 gives low to 209 gives high to 86.
+Iteration 23:
+Bot 187 gives low to 54 gives high to 37.
+Iteration 24:
+Bot 103 gives low to 13 gives high to 125.
+Iteration 25:
+Bot 92 gives low to 150 gives high to 131.
+Iteration 26:
+Bot 102 gives low to 56 gives high to 164.
+Iteration 27:
+Bot 37 gives low to 44 gives high to 11.
+Iteration 28:
+Bot 80 gives low to 17 gives high to 84.
+Iteration 29:
+Bot 52 gives low to 143 gives high to 38.
+Iteration 30:
+Bot 168 gives low to 170 gives high to 2.
+Iteration 31:
+Bot 188 gives low to 161 gives high to 180.
+Iteration 32:
+Bot 17 gives low to 93 gives high to 109.
+Iteration 33:
+Bot 117 gives low to 81 gives high to 168.
+Iteration 34:
+Bot 25 gives low to 59 gives high to 71.
+Iteration 35:
+Bot 173 gives low to 192 gives high to 126.
+Iteration 36:
+Bot 118 gives low to 7 gives high to 96.
+Iteration 37:
+Bot 1 gives low to 155 gives high to 100.
+Iteration 38:
+Bot 64 gives low to 125 gives high to 192.
+Iteration 39:
+Bot 5 gives low to 197 gives high to 8.
+Iteration 40:
+Bot 136 gives low to 202 gives high to 47.
+Iteration 41:
+Bot 59 gives low to 7 gives high to 130.
+Iteration 42:
+Bot 197 gives low to 185 gives high to 0.
+Iteration 43:
+Bot 94 gives low to 16 gives high to 39.
+Iteration 44:
+Bot 138 gives low to 87 gives high to 65.
+Iteration 45:
+Bot 20 gives low to 128 gives high to 208.
+Iteration 46:
+Bot 162 acquired value 59.
+Added 59 to 162
+Iteration 47:
+Bot 201 gives low to 119 gives high to 177.
+Iteration 48:
+Bot 32 gives low to 96 gives high to 90.
+Iteration 49:
+Bot 174 gives low to 36 gives high to 124.
+Iteration 50:
+Bot 60 gives low to 158 gives high to 34.
+Iteration 51:
+Bot 140 acquired value 53.
+Added 53 to 140
+Iteration 52:
+Bot 141 gives low to 152 gives high to 175.
+Iteration 53:
+Bot 145 gives low to 183 gives high to 146.
+Iteration 54:
+Bot 190 gives low to 1 gives high to 36.
+Iteration 55:
+Bot 113 gives low to 194 gives high to 157.
+Iteration 56:
+Bot 143 acquired value 41.
+Added 41 to 143
+Iteration 57:
+Bot 61 gives low to 171 gives high to 144.
+Iteration 58:
+Bot 8 gives low to 0 gives high to 152.
+Iteration 59:
+Bot 170 gives low to 193 gives high to 91.
+Iteration 60:
+Bot 65 gives low to 147 gives high to 93.
+Iteration 61:
+Bot 6 gives low to 205 gives high to 182.
+Iteration 62:
+Bot 45 gives low to 195 gives high to 13.
+Iteration 63:
+Bot 98 gives low to 111 gives high to 46.
+Iteration 64:
+Bot 172 gives low to 154 gives high to 7.
+Iteration 65:
+Bot 119 gives low to 131 gives high to 169.
+Iteration 66:
+Bot 199 gives low to 117 gives high to 156.
+Iteration 67:
+Bot 128 gives low to 179 gives high to 208.
+Iteration 68:
+Bot 84 gives low to 109 gives high to 21.
+Iteration 69:
+Bot 86 gives low to 172 gives high to 59.
+Iteration 70:
+Bot 104 acquired value 43.
+Added 43 to 104
+Iteration 71:
+Bot 165 gives low to 27 gives high to 72.
+Iteration 72:
+Bot 62 gives low to 58 gives high to 120.
+Iteration 73:
+Bot 109 gives low to 121 gives high to 102.
+Iteration 74:
+Bot 115 gives low to 24 gives high to 151.
+Iteration 75:
+Bot 19 gives low to 52 gives high to 76.
+Iteration 76:
+Bot 125 gives low to 2 gives high to 107.
+Iteration 77:
+Bot 76 gives low to 38 gives high to 155.
+Iteration 78:
+Bot 52 acquired value 61.
+Added 61 to 52
+Iteration 79:
+Bot 14 gives low to 153 gives high to 53.
+Iteration 80:
+Bot 180 gives low to 106 gives high to 15.
+Iteration 81:
+Bot 30 gives low to 28 gives high to 75.
+Iteration 82:
+Bot 121 gives low to 60 gives high to 56.
+Iteration 83:
+Bot 200 gives low to 16 gives high to 206.
+Iteration 84:
+Bot 163 gives low to 71 gives high to 14.
+Iteration 85:
+Bot 146 gives low to 174 gives high to 16.
+Iteration 86:
+Bot 12 gives low to 11 gives high to 10.
+Iteration 87:
+Bot 127 gives low to 126 gives high to 129.
+Iteration 88:
+Bot 101 gives low to 64 gives high to 173.
+Iteration 89:
+Bot 7 gives low to 4 gives high to 80.
+Iteration 90:
+Bot 189 gives low to 51 gives high to 62.
+Iteration 91:
+Bot 85 gives low to 98 gives high to 108.
+Iteration 92:
+Bot 169 gives low to 204 gives high to 187.
+Iteration 93:
+Bot 160 gives low to 123 gives high to 112.
+Iteration 94:
+Bot 40 gives low to 182 gives high to 70.
+Iteration 95:
+Bot 158 gives low to 101 gives high to 178.
+Iteration 96:
+Bot 175 gives low to 159 gives high to 67.
+Iteration 97:
+Bot 183 gives low to 190 gives high to 174.
+Iteration 98:
+Bot 95 gives low to 146 gives high to 94.
+Iteration 99:
+Bot 110 gives low to 115 gives high to 48.
+Iteration 100:
+Bot 55 gives low to 49 gives high to 57.
+Iteration 101:
+Bot 159 gives low to 75 gives high to 166.
+Iteration 102:
+Bot 208 gives low to 133 gives high to 196.
+Iteration 103:
+Bot 131 gives low to 99 gives high to 204.
+Iteration 104:
+Bot 19 acquired value 2.
+Added 2 to 19
+Iteration 105:
+Bot 24 acquired value 47.
+Added 47 to 24
+Iteration 106:
+Bot 194 acquired value 31.
+Added 31 to 194
+Iteration 107:
+Bot 70 gives low to 199 gives high to 156.
+Iteration 108:
+Bot 120 gives low to 112 gives high to 198.
+Iteration 109:
+Bot 42 gives low to 22 gives high to 191.
+Iteration 110:
+Bot 23 gives low to 177 gives high to 42.
+Iteration 111:
+Bot 144 gives low to 23 gives high to 79.
+Iteration 112:
+Bot 107 gives low to 9 gives high to 161.
+Iteration 113:
+Bot 81 gives low to 15 gives high to 170.
+Iteration 114:
+Bot 143 gives low to 176 gives high to 88.
+Iteration 115:
+Bot 186 gives low to 33 gives high to 202.
+Iteration 116:
+Bot 205 gives low to 127 gives high to 50.
+Iteration 117:
+Bot 27 gives low to 3 gives high to 97.
+Iteration 118:
+Bot 87 gives low to 94 gives high to 147.
+Iteration 119:
+Bot 41 gives low to 100 gives high to 18.
+Iteration 120:
+Bot 50 gives low to 129 gives high to 199.
+Iteration 121:
+Bot 66 gives low to 4 gives high to 190.
+Iteration 122:
+Bot 171 gives low to 201 gives high to 23.
+Iteration 123:
+Bot 27 acquired value 37.
+Added 37 to 27
+Iteration 124:
+Bot 10 gives low to 142 gives high to 163.
+Iteration 125:
+Bot 148 gives low to 37 gives high to 12.
+Iteration 126:
+Bot 195 gives low to 165 gives high to 31.
+Iteration 127:
+Bot 36 gives low to 6 gives high to 26.
+Iteration 128:
+Bot 162 gives low to 114 gives high to 189.
+Iteration 129:
+Bot 104 gives low to 162 gives high to 189.
+Iteration 130:
+Bot 82 gives low to 67 gives high to 154.
+Iteration 131:
+Bot 196 gives low to 17 gives high to 8.
+Iteration 132:
+Bot 39 gives low to 85 gives high to 89.
+Iteration 133:
+Bot 78 gives low to 134 gives high to 33.
+Iteration 134:
+Bot 167 gives low to 203 gives high to 128.
+Iteration 135:
+Bot 44 gives low to 73 gives high to 63.
+Iteration 136:
+Bot 97 gives low to 207 gives high to 132.
+Iteration 137:
+Bot 13 gives low to 31 gives high to 9.
+Iteration 138:
+Bot 46 gives low to 103 gives high to 64.
+Iteration 139:
+Bot 203 gives low to 14 gives high to 179.
+Iteration 140:
+Bot 195 acquired value 23.
+Added 23 to 195
+Iteration 141:
+Bot 182 gives low to 50 gives high to 70.
+Iteration 142:
+Bot 112 gives low to 61 gives high to 198.
+Iteration 143:
+Bot 184 gives low to 89 gives high to 60.
+Iteration 144:
+Bot 67 gives low to 166 gives high to 138.
+Iteration 145:
+Bot 88 gives low to 116 gives high to 5.
+Iteration 146:
+Bot 31 gives low to 72 gives high to 92.
+Iteration 147:
+Bot 198 gives low to 144 gives high to 79.
+Iteration 148:
+Bot 83 gives low to 18 gives high to 29.
+Iteration 149:
+Bot 0 gives low to 139 gives high to 30.
+Iteration 150:
+Bot 115 acquired value 19.
+Added 19 to 115
+Iteration 151:
+Bot 3 gives low to 19 gives high to 207.
+Iteration 152:
+Bot 114 acquired value 13.
+Added 13 to 114
+Iteration 153:
+Bot 89 gives low to 108 gives high to 158.
+Iteration 154:
+Bot 176 gives low to 113 gives high to 116.
+Iteration 155:
+Bot 3 acquired value 5.
+Added 5 to 3
+Iteration 156:
+Bot 181 gives low to 48 gives high to 58.
+Iteration 157:
+Bot 26 gives low to 19 gives high to 111.
+Iteration 158:
+Bot 45 acquired value 3.
+Added 3 to 45
+Iteration 159:
+Bot 4 gives low to 65 gives high to 17.
+Iteration 160:
+Bot 11 gives low to 63 gives high to 10.
+Iteration 161:
+Bot 177 gives low to 169 gives high to 22.
+Iteration 162:
+Bot 71 gives low to 130 gives high to 14.
+Iteration 163:
+Bot 108 gives low to 46 gives high to 101.
+Iteration 164:
+Bot 207 gives low to 76 gives high to 1.
+Iteration 165:
+Bot 104 acquired value 17.
+Added 17 to 104
+Iteration 166:
+Bot 126 gives low to 188 gives high to 149.
+Iteration 167:
+Bot 135 gives low to 164 gives high to 40.
+Iteration 168:
+Bot 105 gives low to 175 gives high to 82.
+Iteration 169:
+Bot 153 gives low to 84 gives high to 53.
+Iteration 170:
+Bot 35 gives low to 122 gives high to 171.
+Iteration 171:
+Bot 164 gives low to 6 gives high to 40.
+Iteration 172:
+Bot 124 gives low to 26 gives high to 98.
+Iteration 173:
+Bot 69 gives low to 13 gives high to 122.
+Iteration 174:
+Bot 49 gives low to 0 gives high to 118.
+Iteration 175:
+Bot 193 gives low to 206 gives high to 167.
+Iteration 176:
+Bot 133 gives low to 5 gives high to 196.
+Iteration 177:
+Bot 24 gives low to 74 gives high to 137.
+Iteration 178:
+Bot 111 gives low to 18 gives high to 103.
+Iteration 179:
+Bot 192 gives low to 107 gives high to 188.
+Iteration 180:
+Bot 110 acquired value 29.
+Added 29 to 110
+Iteration 181:
+Bot 72 gives low to 97 gives high to 150.
+Iteration 182:
+Bot 140 gives low to 110 gives high to 181.
+Iteration 183:
+Bot 191 gives low to 148 gives high to 12.
+Iteration 184:
+Bot 74 acquired value 67.
+Added 67 to 74
+Iteration 185:
+Bot 132 gives low to 1 gives high to 41.
+Iteration 186:
+Bot 16 gives low to 124 gives high to 85.
+Iteration 187:
+Bot 156 gives low to 168 gives high to 2.
+Iteration 188:
+Bot 58 gives low to 160 gives high to 120.
+Iteration 189:
+Bot 43 gives low to 5 gives high to 134.
+Iteration 190:
+Bot 77 gives low to 11 gives high to 49.
+Iteration 191:
+Bot 21 gives low to 102 gives high to 135.
+Iteration 192:
+Bot 178 gives low to 173 gives high to 127.
+Iteration 193:
+Bot 63 gives low to 68 gives high to 142.
+Iteration 194:
+Bot 194 gives low to 77 gives high to 55.
+Iteration 195:
+Bot 51 gives low to 181 gives high to 62.
+Iteration 196:
+Bot 209 gives low to 82 gives high to 172.
+Iteration 197:
+Bot 38 gives low to 88 gives high to 43.
+Iteration 198:
+Bot 130 gives low to 80 gives high to 153.
+Iteration 199:
+Bot 29 gives low to 136 gives high to 73.
+Iteration 200:
+Bot 56 gives low to 34 gives high to 6.
+Iteration 201:
+Bot 54 gives low to 29 gives high to 44.
+Iteration 202:
+Bot 150 gives low to 132 gives high to 99.
+Iteration 203:
+Bot 106 gives low to 12 gives high to 200.
+Iteration 204:
+Bot 79 gives low to 42 gives high to 191.
+Iteration 205:
+Bot 147 gives low to 39 gives high to 184.
+Iteration 206:
+Bot 93 gives low to 184 gives high to 121.
+Iteration 207:
+Bot 90 gives low to 66 gives high to 183.
+Iteration 208:
+Bot 123 gives low to 35 gives high to 61.
+Iteration 209:
+Bot 53 gives low to 21 gives high to 135.
+Iteration 210:
+Bot 137 gives low to 69 gives high to 35.
+Iteration 211:
+Bot 28 gives low to 90 gives high to 145.
+Iteration 212:
+Bot 2 gives low to 91 gives high to 20.
+Iteration 213:
+Bot 91 gives low to 167 gives high to 20.
+Iteration 214:
+Bot 161 gives low to 3 gives high to 106.
+Iteration 215:
+Bot 176 acquired value 71.
+Added 71 to 176
+Iteration 216:
+Bot 73 gives low to 47 gives high to 68.
+Iteration 217:
+Bot 134 gives low to 8 gives high to 141.
+Iteration 218:
+Bot 9 gives low to 92 gives high to 119.
+Iteration 219:
+Bot 129 gives low to 149 gives high to 117.
+Iteration 220:
+Bot 74 gives low to 45 gives high to 69.
+Iteration 221:
+Bot 34 gives low to 178 gives high to 205.
+Iteration 222:
+Bot 100 gives low to 78 gives high to 186.
+Iteration 223:
+Bot 152 gives low to 30 gives high to 159.
+Iteration 224:
+Bot 149 gives low to 180 gives high to 81.
+Iteration 225:
+Bot 142 gives low to 25 gives high to 163.
+Iteration 226:
+Bot 15 gives low to 200 gives high to 193.
+Iteration 227:
+Bot 96 gives low to 10 gives high to 66.
+Iteration 228:
+Bot 165 acquired value 73.
+Added 73 to 165
+Iteration 229:
+Bot 151 gives low to 137 gives high to 123.
+Iteration 230:
+Bot 122 gives low to 9 gives high to 201.
+Bot 3 has chips [5].
+Bot 19 has chips [2].
+Bot 24 has chips [47].
+Bot 27 has chips [37].
+Bot 45 has chips [3].
+Bot 52 has chips [61].
+Bot 74 has chips [67].
+Bot 77 has chips [7].
+Bot 104 has chips [43, 17].
+Bot 104 made the comparison of chips 17 and 43!
+Sending 17 to Bot 162.
+Added 17 to 162
+Sending 43 to Bot 189.
+Added 43 to 189
+Bot 110 has chips [29].
+Bot 113 has chips [11].
+Bot 114 has chips [13].
+Bot 115 has chips [19].
+Bot 140 has chips [53].
+Bot 143 has chips [41].
+Bot 162 has chips [59, 17].
+Bot 162 made the comparison of chips 17 and 59!
+Sending 17 to Bot 114.
+Added 17 to 114
+Sending 59 to Bot 189.
+Added 59 to 189
+Bot 165 has chips [73].
+Bot 176 has chips [71].
+Bot 189 has chips [43, 59].
+Bot 189 made the comparison of chips 43 and 59!
+Sending 43 to Bot 51.
+Added 43 to 51
+Sending 59 to Bot 62.
+Added 59 to 62
+Bot 194 has chips [31].
+Bot 195 has chips [23].
+Bot 3 has chips [5].
+Bot 19 has chips [2].
+Bot 24 has chips [47].
+Bot 27 has chips [37].
+Bot 45 has chips [3].
+Bot 51 has chips [43].
+Bot 52 has chips [61].
+Bot 62 has chips [59].
+Bot 74 has chips [67].
+Bot 77 has chips [7].
+Bot 110 has chips [29].
+Bot 113 has chips [11].
+Bot 114 has chips [13, 17].
+Bot 114 made the comparison of chips 13 and 17!
+Sending 13 to Bot 140.
+Added 13 to 140
+Sending 17 to Bot 51.
+Added 17 to 51
+Bot 115 has chips [19].
+Bot 140 has chips [53, 13].
+Bot 140 made the comparison of chips 13 and 53!
+Sending 13 to Bot 110.
+Added 13 to 110
+Sending 53 to Bot 181.
+Added 53 to 181
+Bot 143 has chips [41].
+Bot 165 has chips [73].
+Bot 176 has chips [71].
+Bot 181 has chips [53].
+Bot 194 has chips [31].
+Bot 195 has chips [23].
+Bot 3 has chips [5].
+Bot 19 has chips [2].
+Bot 24 has chips [47].
+Bot 27 has chips [37].
+Bot 45 has chips [3].
+Bot 51 has chips [43, 17].
+Bot 51 made the comparison of chips 17 and 43!
+Sending 17 to Bot 181.
+Added 17 to 181
+Sending 43 to Bot 62.
+Added 43 to 62
+Bot 52 has chips [61].
+Bot 62 has chips [59, 43].
+Bot 62 made the comparison of chips 43 and 59!
+Sending 43 to Bot 58.
+Added 43 to 58
+Sending 59 to Bot 120.
+Added 59 to 120
+Bot 74 has chips [67].
+Bot 77 has chips [7].
+Bot 110 has chips [29, 13].
+Bot 110 made the comparison of chips 13 and 29!
+Sending 13 to Bot 115.
+Added 13 to 115
+Sending 29 to Bot 48.
+Added 29 to 48
+Bot 113 has chips [11].
+Bot 115 has chips [19, 13].
+Bot 115 made the comparison of chips 13 and 19!
+Sending 13 to Bot 24.
+Added 13 to 24
+Sending 19 to Bot 151.
+Added 19 to 151
+Bot 120 has chips [59].
+Bot 143 has chips [41].
+Bot 151 has chips [19].
+Bot 165 has chips [73].
+Bot 176 has chips [71].
+Bot 181 has chips [53, 17].
+Bot 181 made the comparison of chips 17 and 53!
+Sending 17 to Bot 48.
+Added 17 to 48
+Sending 53 to Bot 58.
+Added 53 to 58
+Bot 194 has chips [31].
+Bot 195 has chips [23].
+Bot 3 has chips [5].
+Bot 19 has chips [2].
+Bot 24 has chips [47, 13].
+Bot 24 made the comparison of chips 13 and 47!
+Sending 13 to Bot 74.
+Added 13 to 74
+Sending 47 to Bot 137.
+Added 47 to 137
+Bot 27 has chips [37].
+Bot 45 has chips [3].
+Bot 48 has chips [29, 17].
+Bot 48 made the comparison of chips 17 and 29!
+Sending 17 to Bot 151.
+Added 17 to 151
+Sending 29 to Bot 160.
+Added 29 to 160
+Bot 52 has chips [61].
+Bot 58 has chips [43, 53].
+Bot 58 made the comparison of chips 43 and 53!
+Sending 43 to Bot 160.
+Added 43 to 160
+Sending 53 to Bot 120.
+Added 53 to 120
+Bot 74 has chips [67, 13].
+Bot 74 made the comparison of chips 13 and 67!
+Sending 13 to Bot 45.
+Added 13 to 45
+Sending 67 to Bot 69.
+Added 67 to 69
+Bot 77 has chips [7].
+Bot 113 has chips [11].
+Bot 120 has chips [59, 53].
+Bot 120 made the comparison of chips 53 and 59!
+Sending 53 to Bot 112.
+Added 53 to 112
+Sending 59 to Bot 198.
+Added 59 to 198
+Bot 137 has chips [47].
+Bot 143 has chips [41].
+Bot 151 has chips [19, 17].
+Bot 151 made the comparison of chips 17 and 19!
+Sending 17 to Bot 137.
+Added 17 to 137
+Sending 19 to Bot 123.
+Added 19 to 123
+Bot 160 has chips [29, 43].
+Bot 160 made the comparison of chips 29 and 43!
+Sending 29 to Bot 123.
+Added 29 to 123
+Sending 43 to Bot 112.
+Added 43 to 112
+Bot 165 has chips [73].
+Bot 176 has chips [71].
+Bot 194 has chips [31].
+Bot 195 has chips [23].
+Bot 198 has chips [59].
+Bot 3 has chips [5].
+Bot 19 has chips [2].
+Bot 27 has chips [37].
+Bot 45 has chips [3, 13].
+Bot 45 made the comparison of chips 3 and 13!
+Sending 3 to Bot 195.
+Added 3 to 195
+Sending 13 to Bot 13.
+Added 13 to 13
+Bot 52 has chips [61].
+Bot 69 has chips [67].
+Bot 77 has chips [7].
+Bot 112 has chips [53, 43].
+Bot 112 made the comparison of chips 43 and 53!
+Sending 43 to Bot 61.
+Added 43 to 61
+Sending 53 to Bot 198.
+Added 53 to 198
+Bot 113 has chips [11].
+Bot 123 has chips [19, 29].
+Bot 123 made the comparison of chips 19 and 29!
+Sending 19 to Bot 35.
+Added 19 to 35
+Sending 29 to Bot 61.
+Added 29 to 61
+Bot 137 has chips [47, 17].
+Bot 137 made the comparison of chips 17 and 47!
+Sending 17 to Bot 69.
+Added 17 to 69
+Sending 47 to Bot 35.
+Added 47 to 35
+Bot 143 has chips [41].
+Bot 165 has chips [73].
+Bot 176 has chips [71].
+Bot 194 has chips [31].
+Bot 195 has chips [23, 3].
+Bot 195 made the comparison of chips 3 and 23!
+Sending 3 to Bot 165.
+Added 3 to 165
+Sending 23 to Bot 31.
+Added 23 to 31
+Bot 198 has chips [59, 53].
+Bot 198 made the comparison of chips 53 and 59!
+Sending 53 to Bot 144.
+Added 53 to 144
+Sending 59 to Bot 79.
+Added 59 to 79
+Bot 3 has chips [5].
+Bot 13 has chips [13].
+Bot 19 has chips [2].
+Bot 27 has chips [37].
+Bot 31 has chips [23].
+Bot 35 has chips [19, 47].
+Bot 35 made the comparison of chips 19 and 47!
+Sending 19 to Bot 122.
+Added 19 to 122
+Sending 47 to Bot 171.
+Added 47 to 171
+Bot 52 has chips [61].
+Bot 61 has chips [43, 29].
+Bot 61 made the comparison of chips 29 and 43!
+Sending 29 to Bot 171.
+Added 29 to 171
+Sending 43 to Bot 144.
+Added 43 to 144
+Bot 69 has chips [67, 17].
+Bot 69 made the comparison of chips 17 and 67!
+Sending 17 to Bot 13.
+Added 17 to 13
+Sending 67 to Bot 122.
+Added 67 to 122
+Bot 77 has chips [7].
+Bot 79 has chips [59].
+Bot 113 has chips [11].
+Bot 122 has chips [19, 67].
+Bot 122 made the comparison of chips 19 and 67!
+Sending 19 to Bot 9.
+Added 19 to 9
+Sending 67 to Bot 201.
+Added 67 to 201
+Bot 143 has chips [41].
+Bot 144 has chips [53, 43].
+Bot 144 made the comparison of chips 43 and 53!
+Sending 43 to Bot 23.
+Added 43 to 23
+Sending 53 to Bot 79.
+Added 53 to 79
+Bot 165 has chips [73, 3].
+Bot 165 made the comparison of chips 3 and 73!
+Sending 3 to Bot 27.
+Added 3 to 27
+Sending 73 to Bot 72.
+Added 73 to 72
+Bot 171 has chips [47, 29].
+Bot 171 made the comparison of chips 29 and 47!
+Sending 29 to Bot 201.
+Added 29 to 201
+Sending 47 to Bot 23.
+Added 47 to 23
+Bot 176 has chips [71].
+Bot 194 has chips [31].
+Bot 201 has chips [67, 29].
+Bot 201 made the comparison of chips 29 and 67!
+Sending 29 to Bot 119.
+Added 29 to 119
+Sending 67 to Bot 177.
+Added 67 to 177
+Bot 3 has chips [5].
+Bot 9 has chips [19].
+Bot 13 has chips [13, 17].
+Bot 13 made the comparison of chips 13 and 17!
+Sending 13 to Bot 31.
+Added 13 to 31
+Sending 17 to Bot 9.
+Added 17 to 9
+Bot 19 has chips [2].
+Bot 23 has chips [43, 47].
+Bot 23 made the comparison of chips 43 and 47!
+Sending 43 to Bot 177.
+Added 43 to 177
+Sending 47 to Bot 42.
+Added 47 to 42
+Bot 27 has chips [37, 3].
+Bot 27 made the comparison of chips 3 and 37!
+Sending 3 to Bot 3.
+Added 3 to 3
+Sending 37 to Bot 97.
+Added 37 to 97
+Bot 31 has chips [23, 13].
+Bot 31 made the comparison of chips 13 and 23!
+Sending 13 to Bot 72.
+Added 13 to 72
+Sending 23 to Bot 92.
+Added 23 to 92
+Bot 42 has chips [47].
+Bot 52 has chips [61].
+Bot 72 has chips [73, 13].
+Bot 72 made the comparison of chips 13 and 73!
+Sending 13 to Bot 97.
+Added 13 to 97
+Sending 73 to Bot 150.
+Added 73 to 150
+Bot 77 has chips [7].
+Bot 79 has chips [59, 53].
+Bot 79 made the comparison of chips 53 and 59!
+Sending 53 to Bot 42.
+Added 53 to 42
+Sending 59 to Bot 191.
+Added 59 to 191
+Bot 92 has chips [23].
+Bot 97 has chips [37, 13].
+Bot 97 made the comparison of chips 13 and 37!
+Sending 13 to Bot 207.
+Added 13 to 207
+Sending 37 to Bot 132.
+Added 37 to 132
+Bot 113 has chips [11].
+Bot 119 has chips [29].
+Bot 132 has chips [37].
+Bot 143 has chips [41].
+Bot 150 has chips [73].
+Bot 176 has chips [71].
+Bot 177 has chips [67, 43].
+Bot 177 made the comparison of chips 43 and 67!
+Sending 43 to Bot 169.
+Added 43 to 169
+Sending 67 to Bot 22.
+Added 67 to 22
+Bot 191 has chips [59].
+Bot 194 has chips [31].
+Bot 207 has chips [13].
+Bot 3 has chips [5, 3].
+Bot 3 made the comparison of chips 3 and 5!
+Sending 3 to Bot 19.
+Added 3 to 19
+Sending 5 to Bot 207.
+Added 5 to 207
+Bot 9 has chips [19, 17].
+Bot 9 made the comparison of chips 17 and 19!
+Sending 17 to Bot 92.
+Added 17 to 92
+Sending 19 to Bot 119.
+Added 19 to 119
+Bot 19 has chips [2, 3].
+Bot 19 made the comparison of chips 2 and 3!
+Sending 2 to Bot 52.
+Added 2 to 52
+Sending 3 to Bot 76.
+Added 3 to 76
+Bot 22 has chips [67].
+Bot 42 has chips [47, 53].
+Bot 42 made the comparison of chips 47 and 53!
+Sending 47 to Bot 22.
+Added 47 to 22
+Sending 53 to Bot 191.
+Added 53 to 191
+Bot 52 has chips [61, 2].
+Bot 52 made the comparison of chips 2 and 61!
+Sending 2 to Bot 143.
+Added 2 to 143
+Sending 61 to Bot 38.
+Added 61 to 38
+Bot 76 has chips [3].
+Bot 77 has chips [7].
+Bot 92 has chips [23, 17].
+Bot 92 made the comparison of chips 17 and 23!
+Sending 17 to Bot 150.
+Added 17 to 150
+Sending 23 to Bot 131.
+Added 23 to 131
+Bot 113 has chips [11].
+Bot 119 has chips [29, 19].
+Bot 119 made the comparison of chips 19 and 29!
+Sending 19 to Bot 131.
+Added 19 to 131
+Sending 29 to Bot 169.
+Added 29 to 169
+Bot 131 has chips [23, 19].
+Bot 131 made the comparison of chips 19 and 23!
+Sending 19 to Bot 99.
+Added 19 to 99
+Sending 23 to Bot 204.
+Added 23 to 204
+Bot 132 has chips [37].
+Bot 143 has chips [41, 2].
+Bot 143 made the comparison of chips 2 and 41!
+Sending 2 to Bot 176.
+Added 2 to 176
+Sending 41 to Bot 88.
+Added 41 to 88
+Bot 150 has chips [73, 17].
+Bot 150 made the comparison of chips 17 and 73!
+Sending 17 to Bot 132.
+Added 17 to 132
+Sending 73 to Bot 99.
+Added 73 to 99
+Bot 169 has chips [43, 29].
+Bot 169 made the comparison of chips 29 and 43!
+Sending 29 to Bot 204.
+Added 29 to 204
+Sending 43 to Bot 187.
+Added 43 to 187
+Bot 176 has chips [71, 2].
+Bot 176 made the comparison of chips 2 and 71!
+Sending 2 to Bot 113.
+Added 2 to 113
+Sending 71 to Bot 116.
+Added 71 to 116
+Bot 187 has chips [43].
+Bot 191 has chips [59, 53].
+Bot 191 made the comparison of chips 53 and 59!
+Sending 53 to Bot 148.
+Added 53 to 148
+Sending 59 to Bot 12.
+Added 59 to 12
+Bot 194 has chips [31].
+Bot 204 has chips [23, 29].
+Bot 204 made the comparison of chips 23 and 29!
+Sending 23 to Bot 83.
+Added 23 to 83
+Sending 29 to Bot 54.
+Added 29 to 54
+Bot 207 has chips [13, 5].
+Bot 207 made the comparison of chips 5 and 13!
+Sending 5 to Bot 76.
+Added 5 to 76
+Sending 13 to Bot 1.
+Added 13 to 1
+Bot 1 has chips [13].
+Bot 12 has chips [59].
+Bot 22 has chips [67, 47].
+Bot 22 made the comparison of chips 47 and 67!
+Sending 47 to Bot 187.
+Added 47 to 187
+Sending 67 to Bot 148.
+Added 67 to 148
+Bot 38 has chips [61].
+Bot 54 has chips [29].
+Bot 76 has chips [3, 5].
+Bot 76 made the comparison of chips 3 and 5!
+Sending 3 to Bot 38.
+Added 3 to 38
+Sending 5 to Bot 155.
+Added 5 to 155
+Bot 77 has chips [7].
+Bot 83 has chips [23].
+Bot 88 has chips [41].
+Bot 99 has chips [19, 73].
+Bot 99 made the comparison of chips 19 and 73!
+Sending 19 to Bot 41.
+Added 19 to 41
+Sending 73 to Bot 83.
+Added 73 to 83
+Bot 113 has chips [11, 2].
+Bot 113 made the comparison of chips 2 and 11!
+Sending 2 to Bot 194.
+Added 2 to 194
+Sending 11 to Bot 157.
+Added 11 to 157
+Bot 116 has chips [71].
+Bot 132 has chips [37, 17].
+Bot 132 made the comparison of chips 17 and 37!
+Sending 17 to Bot 1.
+Added 17 to 1
+Sending 37 to Bot 41.
+Added 37 to 41
+Bot 148 has chips [53, 67].
+Bot 148 made the comparison of chips 53 and 67!
+Sending 53 to Bot 37.
+Added 53 to 37
+Sending 67 to Bot 12.
+Added 67 to 12
+Bot 155 has chips [5].
+Bot 157 has chips [11].
+Bot 187 has chips [43, 47].
+Bot 187 made the comparison of chips 43 and 47!
+Sending 43 to Bot 54.
+Added 43 to 54
+Sending 47 to Bot 37.
+Added 47 to 37
+Bot 194 has chips [31, 2].
+Bot 194 made the comparison of chips 2 and 31!
+Sending 2 to Bot 77.
+Added 2 to 77
+Sending 31 to Bot 55.
+Added 31 to 55
+Bot 1 has chips [13, 17].
+Bot 1 made the comparison of chips 13 and 17!
+Sending 13 to Bot 155.
+Added 13 to 155
+Sending 17 to Bot 100.
+Added 17 to 100
+Bot 12 has chips [59, 67].
+Bot 12 made the comparison of chips 59 and 67!
+Sending 59 to Bot 11.
+Added 59 to 11
+Sending 67 to Bot 10.
+Added 67 to 10
+Bot 37 has chips [53, 47].
+Bot 37 made the comparison of chips 47 and 53!
+Sending 47 to Bot 44.
+Added 47 to 44
+Sending 53 to Bot 11.
+Added 53 to 11
+Bot 38 has chips [61, 3].
+Bot 38 made the comparison of chips 3 and 61!
+Sending 3 to Bot 88.
+Added 3 to 88
+Sending 61 to Bot 43.
+Added 61 to 43
+Bot 41 has chips [19, 37].
+Bot 41 made the comparison of chips 19 and 37!
+Sending 19 to Bot 100.
+Added 19 to 100
+Sending 37 to Bot 18.
+Added 37 to 18
+Bot 43 has chips [61].
+Bot 44 has chips [47].
+Bot 54 has chips [29, 43].
+Bot 54 made the comparison of chips 29 and 43!
+Sending 29 to Bot 29.
+Added 29 to 29
+Sending 43 to Bot 44.
+Added 43 to 44
+Bot 55 has chips [31].
+Bot 77 has chips [7, 2].
+Bot 77 made the comparison of chips 2 and 7!
+Sending 2 to Output 11.
+Sending 7 to Bot 49.
+Added 7 to 49
+Bot 83 has chips [23, 73].
+Bot 83 made the comparison of chips 23 and 73!
+Sending 23 to Bot 18.
+Added 23 to 18
+Sending 73 to Bot 29.
+Added 73 to 29
+Bot 88 has chips [41, 3].
+Bot 88 made the comparison of chips 3 and 41!
+Sending 3 to Bot 116.
+Added 3 to 116
+Sending 41 to Bot 5.
+Added 41 to 5
+Bot 100 has chips [17, 19].
+Bot 100 made the comparison of chips 17 and 19!
+Sending 17 to Bot 78.
+Added 17 to 78
+Sending 19 to Bot 186.
+Added 19 to 186
+Bot 116 has chips [71, 3].
+Bot 116 made the comparison of chips 3 and 71!
+Sending 3 to Bot 157.
+Added 3 to 157
+Sending 71 to Bot 197.
+Added 71 to 197
+Bot 155 has chips [5, 13].
+Bot 155 made the comparison of chips 5 and 13!
+Sending 5 to Bot 43.
+Added 5 to 43
+Sending 13 to Bot 78.
+Added 13 to 78
+Bot 157 has chips [11, 3].
+Bot 157 made the comparison of chips 3 and 11!
+Sending 3 to Bot 55.
+Added 3 to 55
+Sending 11 to Bot 185.
+Added 11 to 185
+Bot 185 has chips [11].
+Bot 186 has chips [19].
+Bot 197 has chips [71].
+Output 11 has chips [2].
+Bot 5 has chips [41].
+Bot 10 has chips [67].
+Bot 11 has chips [59, 53].
+Bot 11 made the comparison of chips 53 and 59!
+Sending 53 to Bot 63.
+Added 53 to 63
+Sending 59 to Bot 10.
+Added 59 to 10
+Bot 18 has chips [37, 23].
+Bot 18 made the comparison of chips 23 and 37!
+Sending 23 to Bot 186.
+Added 23 to 186
+Sending 37 to Bot 136.
+Added 37 to 136
+Bot 29 has chips [29, 73].
+Bot 29 made the comparison of chips 29 and 73!
+Sending 29 to Bot 136.
+Added 29 to 136
+Sending 73 to Bot 73.
+Added 73 to 73
+Bot 43 has chips [61, 5].
+Bot 43 made the comparison of chips 5 and 61!
+Sending 5 to Bot 5.
+Added 5 to 5
+Sending 61 to Bot 134.
+Added 61 to 134
+Bot 44 has chips [47, 43].
+Bot 44 made the comparison of chips 43 and 47!
+Sending 43 to Bot 73.
+Added 43 to 73
+Sending 47 to Bot 63.
+Added 47 to 63
+Bot 49 has chips [7].
+Bot 55 has chips [31, 3].
+Bot 55 made the comparison of chips 3 and 31!
+Sending 3 to Bot 49.
+Added 3 to 49
+Sending 31 to Bot 57.
+Added 31 to 57
+Bot 57 has chips [31].
+Bot 63 has chips [53, 47].
+Bot 63 made the comparison of chips 47 and 53!
+Sending 47 to Bot 68.
+Added 47 to 68
+Sending 53 to Bot 142.
+Added 53 to 142
+Bot 68 has chips [47].
+Bot 73 has chips [73, 43].
+Bot 73 made the comparison of chips 43 and 73!
+Sending 43 to Bot 47.
+Added 43 to 47
+Sending 73 to Bot 68.
+Added 73 to 68
+Bot 78 has chips [17, 13].
+Bot 78 made the comparison of chips 13 and 17!
+Sending 13 to Bot 134.
+Added 13 to 134
+Sending 17 to Bot 33.
+Added 17 to 33
+Bot 134 has chips [61, 13].
+Bot 134 made the comparison of chips 13 and 61!
+Sending 13 to Bot 8.
+Added 13 to 8
+Sending 61 to Bot 141.
+Added 61 to 141
+Bot 136 has chips [37, 29].
+Bot 136 made the comparison of chips 29 and 37!
+Sending 29 to Bot 202.
+Added 29 to 202
+Sending 37 to Bot 47.
+Added 37 to 47
+Bot 141 has chips [61].
+Bot 142 has chips [53].
+Bot 185 has chips [11].
+Bot 186 has chips [19, 23].
+Bot 186 made the comparison of chips 19 and 23!
+Sending 19 to Bot 33.
+Added 19 to 33
+Sending 23 to Bot 202.
+Added 23 to 202
+Bot 197 has chips [71].
+Bot 202 has chips [29, 23].
+Bot 202 made the comparison of chips 23 and 29!
+Sending 23 to Bot 105.
+Added 23 to 105
+Sending 29 to Bot 209.
+Added 29 to 209
+Bot 209 has chips [29].
+Output 11 has chips [2].
+Bot 5 has chips [41, 5].
+Bot 5 made the comparison of chips 5 and 41!
+Sending 5 to Bot 197.
+Added 5 to 197
+Sending 41 to Bot 8.
+Added 41 to 8
+Bot 8 has chips [13, 41].
+Bot 8 made the comparison of chips 13 and 41!
+Sending 13 to Bot 0.
+Added 13 to 0
+Sending 41 to Bot 152.
+Added 41 to 152
+Bot 10 has chips [67, 59].
+Bot 10 made the comparison of chips 59 and 67!
+Sending 59 to Bot 142.
+Added 59 to 142
+Sending 67 to Bot 163.
+Added 67 to 163
+Bot 33 has chips [17, 19].
+Bot 33 made the comparison of chips 17 and 19!
+Sending 17 to Bot 141.
+Added 17 to 141
+Sending 19 to Bot 105.
+Added 19 to 105
+Bot 47 has chips [43, 37].
+Bot 47 made the comparison of chips 37 and 43!
+Sending 37 to Bot 209.
+Added 37 to 209
+Sending 43 to Bot 86.
+Added 43 to 86
+Bot 49 has chips [7, 3].
+Bot 49 made the comparison of chips 3 and 7!
+Sending 3 to Output 0.
+Sending 7 to Bot 118.
+Added 7 to 118
+Bot 57 has chips [31].
+Bot 68 has chips [47, 73].
+Bot 68 made the comparison of chips 47 and 73!
+Sending 47 to Bot 86.
+Added 47 to 86
+Sending 73 to Bot 25.
+Added 73 to 25
+Bot 86 has chips [43, 47].
+Bot 86 made the comparison of chips 43 and 47!
+Sending 43 to Bot 172.
+Added 43 to 172
+Sending 47 to Bot 59.
+Added 47 to 59
+Bot 105 has chips [23, 19].
+Bot 105 made the comparison of chips 19 and 23!
+Sending 19 to Bot 175.
+Added 19 to 175
+Sending 23 to Bot 82.
+Added 23 to 82
+Bot 118 has chips [7].
+Bot 141 has chips [61, 17].
+Bot 141 made the comparison of chips 17 and 61!
+Sending 17 to Bot 152.
+Added 17 to 152
+Sending 61 to Bot 175.
+Added 61 to 175
+Bot 142 has chips [53, 59].
+Bot 142 made the comparison of chips 53 and 59!
+Sending 53 to Bot 25.
+Added 53 to 25
+Sending 59 to Bot 163.
+Added 59 to 163
+Bot 152 has chips [41, 17].
+Bot 152 made the comparison of chips 17 and 41!
+Sending 17 to Bot 30.
+Added 17 to 30
+Sending 41 to Bot 159.
+Added 41 to 159
+Bot 159 has chips [41].
+Bot 163 has chips [67, 59].
+Bot 163 made the comparison of chips 59 and 67!
+Sending 59 to Bot 71.
+Added 59 to 71
+Sending 67 to Bot 14.
+Added 67 to 14
+Bot 172 has chips [43].
+Bot 175 has chips [19, 61].
+Bot 175 made the comparison of chips 19 and 61!
+Sending 19 to Bot 159.
+Added 19 to 159
+Sending 61 to Bot 67.
+Added 61 to 67
+Bot 185 has chips [11].
+Bot 197 has chips [71, 5].
+Bot 197 made the comparison of chips 5 and 71!
+Sending 5 to Bot 185.
+Added 5 to 185
+Sending 71 to Bot 0.
+Added 71 to 0
+Bot 209 has chips [29, 37].
+Bot 209 made the comparison of chips 29 and 37!
+Sending 29 to Bot 82.
+Added 29 to 82
+Sending 37 to Bot 172.
+Added 37 to 172
+Output 11 has chips [2].
+Output 0 has chips [3].
+Bot 0 has chips [13, 71].
+Bot 0 made the comparison of chips 13 and 71!
+Sending 13 to Bot 139.
+Added 13 to 139
+Sending 71 to Bot 30.
+Added 71 to 30
+Bot 14 has chips [67].
+Bot 25 has chips [73, 53].
+Bot 25 made the comparison of chips 53 and 73!
+Sending 53 to Bot 59.
+Added 53 to 59
+Sending 73 to Bot 71.
+Added 73 to 71
+Bot 30 has chips [17, 71].
+Bot 30 made the comparison of chips 17 and 71!
+Sending 17 to Bot 28.
+Added 17 to 28
+Sending 71 to Bot 75.
+Added 71 to 75
+Bot 57 has chips [31].
+Bot 59 has chips [47, 53].
+Bot 59 made the comparison of chips 47 and 53!
+Sending 47 to Bot 7.
+Added 47 to 7
+Sending 53 to Bot 130.
+Added 53 to 130
+Bot 67 has chips [61].
+Bot 71 has chips [59, 73].
+Bot 71 made the comparison of chips 59 and 73!
+Sending 59 to Bot 130.
+Added 59 to 130
+Sending 73 to Bot 14.
+Added 73 to 14
+Bot 75 has chips [71].
+Bot 82 has chips [23, 29].
+Bot 82 made the comparison of chips 23 and 29!
+Sending 23 to Bot 67.
+Added 23 to 67
+Sending 29 to Bot 154.
+Added 29 to 154
+Bot 118 has chips [7].
+Bot 130 has chips [53, 59].
+Bot 130 made the comparison of chips 53 and 59!
+Sending 53 to Bot 80.
+Added 53 to 80
+Sending 59 to Bot 153.
+Added 59 to 153
+Bot 139 has chips [13].
+Bot 153 has chips [59].
+Bot 154 has chips [29].
+Bot 159 has chips [41, 19].
+Bot 159 made the comparison of chips 19 and 41!
+Sending 19 to Bot 75.
+Added 19 to 75
+Sending 41 to Bot 166.
+Added 41 to 166
+Bot 166 has chips [41].
+Bot 172 has chips [43, 37].
+Bot 172 made the comparison of chips 37 and 43!
+Sending 37 to Bot 154.
+Added 37 to 154
+Sending 43 to Bot 7.
+Added 43 to 7
+Bot 185 has chips [11, 5].
+Bot 185 made the comparison of chips 5 and 11!
+Sending 5 to Bot 57.
+Added 5 to 57
+Sending 11 to Bot 139.
+Added 11 to 139
+Output 0 has chips [3].
+Output 11 has chips [2].
+Bot 7 has chips [47, 43].
+Bot 7 made the comparison of chips 43 and 47!
+Sending 43 to Bot 4.
+Added 43 to 4
+Sending 47 to Bot 80.
+Added 47 to 80
+Bot 14 has chips [67, 73].
+Bot 14 made the comparison of chips 67 and 73!
+Sending 67 to Bot 153.
+Added 67 to 153
+Sending 73 to Bot 53.
+Added 73 to 53
+Bot 28 has chips [17].
+Bot 53 has chips [73].
+Bot 57 has chips [31, 5].
+Bot 57 made the comparison of chips 5 and 31!
+Sending 5 to Bot 118.
+Added 5 to 118
+Sending 31 to Bot 32.
+Added 31 to 32
+Bot 67 has chips [61, 23].
+Bot 67 made the comparison of chips 23 and 61!
+Sending 23 to Bot 166.
+Added 23 to 166
+Sending 61 to Bot 138.
+Added 61 to 138
+Bot 75 has chips [71, 19].
+Bot 75 made the comparison of chips 19 and 71!
+Sending 19 to Bot 145.
+Added 19 to 145
+Sending 71 to Bot 95.
+Added 71 to 95
+Bot 80 has chips [53, 47].
+Bot 80 made the comparison of chips 47 and 53!
+Sending 47 to Bot 17.
+Added 47 to 17
+Sending 53 to Bot 84.
+Added 53 to 84
+Bot 84 has chips [53].
+Bot 95 has chips [71].
+Bot 118 has chips [7, 5].
+Bot 118 made the comparison of chips 5 and 7!
+Sending 5 to Output 7.
+Sending 7 to Bot 96.
+Added 7 to 96
+Bot 138 has chips [61].
+Bot 139 has chips [13, 11].
+Bot 139 made the comparison of chips 11 and 13!
+Sending 11 to Bot 32.
+Added 11 to 32
+Sending 13 to Bot 28.
+Added 13 to 28
+Bot 145 has chips [19].
+Bot 153 has chips [59, 67].
+Bot 153 made the comparison of chips 59 and 67!
+Sending 59 to Bot 84.
+Added 59 to 84
+Sending 67 to Bot 53.
+Added 67 to 53
+Bot 154 has chips [29, 37].
+Bot 154 made the comparison of chips 29 and 37!
+Sending 29 to Bot 138.
+Added 29 to 138
+Sending 37 to Bot 4.
+Added 37 to 4
+Bot 166 has chips [41, 23].
+Bot 166 made the comparison of chips 23 and 41!
+Sending 23 to Bot 95.
+Added 23 to 95
+Sending 41 to Bot 87.
+Added 41 to 87
+Output 0 has chips [3].
+Output 11 has chips [2].
+Output 7 has chips [5].
+Bot 4 has chips [43, 37].
+Bot 4 made the comparison of chips 37 and 43!
+Sending 37 to Bot 65.
+Added 37 to 65
+Sending 43 to Bot 17.
+Added 43 to 17
+Bot 17 has chips [47, 43].
+Bot 17 made the comparison of chips 43 and 47!
+Sending 43 to Bot 93.
+Added 43 to 93
+Sending 47 to Bot 109.
+Added 47 to 109
+Bot 28 has chips [17, 13].
+Bot 28 made the comparison of chips 13 and 17!
+Sending 13 to Bot 90.
+Added 13 to 90
+Sending 17 to Bot 145.
+Added 17 to 145
+Bot 32 has chips [31, 11].
+Bot 32 made the comparison of chips 11 and 31!
+Sending 11 to Bot 96.
+Added 11 to 96
+Sending 31 to Bot 90.
+Added 31 to 90
+Bot 53 has chips [73, 67].
+Bot 53 made the comparison of chips 67 and 73!
+Sending 67 to Bot 21.
+Added 67 to 21
+Sending 73 to Bot 135.
+Added 73 to 135
+Bot 65 has chips [37].
+Bot 84 has chips [53, 59].
+Bot 84 made the comparison of chips 53 and 59!
+Sending 53 to Bot 109.
+Added 53 to 109
+Sending 59 to Bot 21.
+Added 59 to 21
+Bot 87 has chips [41].
+Bot 90 has chips [13, 31].
+Bot 90 made the comparison of chips 13 and 31!
+Sending 13 to Bot 66.
+Added 13 to 66
+Sending 31 to Bot 183.
+Added 31 to 183
+Bot 93 has chips [43].
+Bot 95 has chips [71, 23].
+Bot 95 made the comparison of chips 23 and 71!
+Sending 23 to Bot 146.
+Added 23 to 146
+Sending 71 to Bot 94.
+Added 71 to 94
+Bot 96 has chips [7, 11].
+Bot 96 made the comparison of chips 7 and 11!
+Sending 7 to Output 10.
+Sending 11 to Bot 66.
+Added 11 to 66
+Bot 109 has chips [47, 53].
+Bot 109 made the comparison of chips 47 and 53!
+Sending 47 to Bot 121.
+Added 47 to 121
+Sending 53 to Bot 102.
+Added 53 to 102
+Bot 121 has chips [47].
+Bot 135 has chips [73].
+Bot 138 has chips [61, 29].
+Bot 138 made the comparison of chips 29 and 61!
+Sending 29 to Bot 87.
+Added 29 to 87
+Sending 61 to Bot 65.
+Added 61 to 65
+Bot 145 has chips [19, 17].
+Bot 145 made the comparison of chips 17 and 19!
+Sending 17 to Bot 183.
+Added 17 to 183
+Sending 19 to Bot 146.
+Added 19 to 146
+Bot 146 has chips [23, 19].
+Bot 146 made the comparison of chips 19 and 23!
+Sending 19 to Bot 174.
+Added 19 to 174
+Sending 23 to Bot 16.
+Added 23 to 16
+Bot 174 has chips [19].
+Bot 183 has chips [31, 17].
+Bot 183 made the comparison of chips 17 and 31!
+Sending 17 to Bot 190.
+Added 17 to 190
+Sending 31 to Bot 174.
+Added 31 to 174
+Bot 190 has chips [17].
+Output 0 has chips [3].
+Output 7 has chips [5].
+Output 11 has chips [2].
+Output 10 has chips [7].
+Bot 16 has chips [23].
+Bot 21 has chips [67, 59].
+Bot 21 made the comparison of chips 59 and 67!
+Sending 59 to Bot 102.
+Added 59 to 102
+Sending 67 to Bot 135.
+Added 67 to 135
+Bot 65 has chips [37, 61].
+Bot 65 made the comparison of chips 37 and 61!
+Sending 37 to Bot 147.
+Added 37 to 147
+Sending 61 to Bot 93.
+Added 61 to 93
+Bot 66 has chips [13, 11].
+Bot 66 made the comparison of chips 11 and 13!
+Sending 11 to Output 4.
+Sending 13 to Bot 190.
+Added 13 to 190
+Bot 87 has chips [41, 29].
+Bot 87 made the comparison of chips 29 and 41!
+Sending 29 to Bot 94.
+Added 29 to 94
+Sending 41 to Bot 147.
+Added 41 to 147
+Bot 93 has chips [43, 61].
+Bot 93 made the comparison of chips 43 and 61!
+Sending 43 to Bot 184.
+Added 43 to 184
+Sending 61 to Bot 121.
+Added 61 to 121
+Bot 94 has chips [71, 29].
+Bot 94 made the comparison of chips 29 and 71!
+Sending 29 to Bot 16.
+Added 29 to 16
+Sending 71 to Bot 39.
+Added 71 to 39
+Bot 102 has chips [53, 59].
+Bot 102 made the comparison of chips 53 and 59!
+Sending 53 to Bot 56.
+Added 53 to 56
+Sending 59 to Bot 164.
+Added 59 to 164
+Bot 121 has chips [47, 61].
+Bot 121 made the comparison of chips 47 and 61!
+Sending 47 to Bot 60.
+Added 47 to 60
+Sending 61 to Bot 56.
+Added 61 to 56
+Bot 135 has chips [73, 67].
+Bot 135 made the comparison of chips 67 and 73!
+Sending 67 to Bot 164.
+Added 67 to 164
+Sending 73 to Bot 40.
+Added 73 to 40
+Bot 147 has chips [37, 41].
+Bot 147 made the comparison of chips 37 and 41!
+Sending 37 to Bot 39.
+Added 37 to 39
+Sending 41 to Bot 184.
+Added 41 to 184
+Bot 164 has chips [59, 67].
+Bot 164 made the comparison of chips 59 and 67!
+Sending 59 to Bot 6.
+Added 59 to 6
+Sending 67 to Bot 40.
+Added 67 to 40
+Bot 174 has chips [19, 31].
+Bot 174 made the comparison of chips 19 and 31!
+Sending 19 to Bot 36.
+Added 19 to 36
+Sending 31 to Bot 124.
+Added 31 to 124
+Bot 184 has chips [43, 41].
+Bot 184 made the comparison of chips 41 and 43!
+Sending 41 to Bot 89.
+Added 41 to 89
+Sending 43 to Bot 60.
+Added 43 to 60
+Bot 190 has chips [17, 13].
+Bot 190 made the comparison of chips 13 and 17!
+Sending 13 to Output 1.
+Sending 17 to Bot 36.
+Added 17 to 36
+Output 0 has chips [3].
+Output 7 has chips [5].
+Output 10 has chips [7].
+Output 11 has chips [2].
+Output 4 has chips [11].
+Output 1 has chips [13].
+Bot 6 has chips [59].
+Bot 16 has chips [23, 29].
+Bot 16 made the comparison of chips 23 and 29!
+Sending 23 to Bot 124.
+Added 23 to 124
+Sending 29 to Bot 85.
+Added 29 to 85
+Bot 36 has chips [19, 17].
+Bot 36 made the comparison of chips 17 and 19!
+Sending 17 to Output 6.
+Sending 19 to Bot 26.
+Added 19 to 26
+Bot 39 has chips [71, 37].
+Bot 39 made the comparison of chips 37 and 71!
+Sending 37 to Bot 85.
+Added 37 to 85
+Sending 71 to Bot 89.
+Added 71 to 89
+Bot 40 has chips [73, 67].
+Bot 40 made the comparison of chips 67 and 73!
+Sending 67 to Bot 182.
+Added 67 to 182
+Sending 73 to Bot 70.
+Added 73 to 70
+Bot 56 has chips [53, 61].
+Bot 56 made the comparison of chips 53 and 61!
+Sending 53 to Bot 34.
+Added 53 to 34
+Sending 61 to Bot 6.
+Added 61 to 6
+Bot 60 has chips [47, 43].
+Bot 60 made the comparison of chips 43 and 47!
+Sending 43 to Bot 158.
+Added 43 to 158
+Sending 47 to Bot 34.
+Added 47 to 34
+Bot 70 has chips [73].
+Bot 85 has chips [29, 37].
+Bot 85 made the comparison of chips 29 and 37!
+Sending 29 to Bot 98.
+Added 29 to 98
+Sending 37 to Bot 108.
+Added 37 to 108
+Bot 89 has chips [41, 71].
+Bot 89 made the comparison of chips 41 and 71!
+Sending 41 to Bot 108.
+Added 41 to 108
+Sending 71 to Bot 158.
+Added 71 to 158
+Bot 98 has chips [29].
+Bot 108 has chips [37, 41].
+Bot 108 made the comparison of chips 37 and 41!
+Sending 37 to Bot 46.
+Added 37 to 46
+Sending 41 to Bot 101.
+Added 41 to 101
+Bot 124 has chips [31, 23].
+Bot 124 made the comparison of chips 23 and 31!
+Sending 23 to Bot 26.
+Added 23 to 26
+Sending 31 to Bot 98.
+Added 31 to 98
+Bot 158 has chips [43, 71].
+Bot 158 made the comparison of chips 43 and 71!
+Sending 43 to Bot 101.
+Added 43 to 101
+Sending 71 to Bot 178.
+Added 71 to 178
+Bot 178 has chips [71].
+Bot 182 has chips [67].
+Output 0 has chips [3].
+Output 1 has chips [13].
+Output 4 has chips [11].
+Output 7 has chips [5].
+Output 10 has chips [7].
+Output 11 has chips [2].
+Output 6 has chips [17].
+Bot 6 has chips [59, 61].
+Bot 6 made the comparison of chips 59 and 61!
+Sending 59 to Bot 205.
+Added 59 to 205
+Sending 61 to Bot 182.
+Added 61 to 182
+Bot 26 has chips [19, 23].
+Bot 26 made the comparison of chips 19 and 23!
+Sending 19 to Output 19.
+Sending 23 to Bot 111.
+Added 23 to 111
+Bot 34 has chips [53, 47].
+Bot 34 made the comparison of chips 47 and 53!
+Sending 47 to Bot 178.
+Added 47 to 178
+Sending 53 to Bot 205.
+Added 53 to 205
+Bot 46 has chips [37].
+Bot 70 has chips [73].
+Bot 98 has chips [29, 31].
+Bot 98 made the comparison of chips 29 and 31!
+Sending 29 to Bot 111.
+Added 29 to 111
+Sending 31 to Bot 46.
+Added 31 to 46
+Bot 101 has chips [41, 43].
+Bot 101 made the comparison of chips 41 and 43!
+Sending 41 to Bot 64.
+Added 41 to 64
+Sending 43 to Bot 173.
+Added 43 to 173
+Bot 111 has chips [23, 29].
+Bot 111 made the comparison of chips 23 and 29!
+Sending 23 to Output 18.
+Sending 29 to Bot 103.
+Added 29 to 103
+Bot 173 has chips [43].
+Bot 178 has chips [71, 47].
+Bot 178 made the comparison of chips 47 and 71!
+Sending 47 to Bot 173.
+Added 47 to 173
+Sending 71 to Bot 127.
+Added 71 to 127
+Bot 182 has chips [67, 61].
+Bot 182 made the comparison of chips 61 and 67!
+Sending 61 to Bot 50.
+Added 61 to 50
+Sending 67 to Bot 70.
+Added 67 to 70
+Bot 205 has chips [59, 53].
+Bot 205 made the comparison of chips 53 and 59!
+Sending 53 to Bot 127.
+Added 53 to 127
+Sending 59 to Bot 50.
+Added 59 to 50
+Output 0 has chips [3].
+Output 1 has chips [13].
+Output 4 has chips [11].
+Output 6 has chips [17].
+Output 7 has chips [5].
+Output 10 has chips [7].
+Output 11 has chips [2].
+Output 19 has chips [19].
+Output 18 has chips [23].
+Bot 46 has chips [37, 31].
+Bot 46 made the comparison of chips 31 and 37!
+Sending 31 to Bot 103.
+Added 31 to 103
+Sending 37 to Bot 64.
+Added 37 to 64
+Bot 50 has chips [61, 59].
+Bot 50 made the comparison of chips 59 and 61!
+Sending 59 to Bot 129.
+Added 59 to 129
+Sending 61 to Bot 199.
+Added 61 to 199
+Bot 64 has chips [41, 37].
+Bot 64 made the comparison of chips 37 and 41!
+Sending 37 to Bot 125.
+Added 37 to 125
+Sending 41 to Bot 192.
+Added 41 to 192
+Bot 70 has chips [73, 67].
+Bot 70 made the comparison of chips 67 and 73!
+Sending 67 to Bot 199.
+Added 67 to 199
+Sending 73 to Bot 156.
+Added 73 to 156
+Bot 103 has chips [29, 31].
+Bot 103 made the comparison of chips 29 and 31!
+Sending 29 to Output 13.
+Sending 31 to Bot 125.
+Added 31 to 125
+Bot 125 has chips [37, 31].
+Bot 125 made the comparison of chips 31 and 37!
+Sending 31 to Output 2.
+Sending 37 to Bot 107.
+Added 37 to 107
+Bot 127 has chips [71, 53].
+Bot 127 made the comparison of chips 53 and 71!
+Sending 53 to Bot 126.
+Added 53 to 126
+Sending 71 to Bot 129.
+Added 71 to 129
+Bot 129 has chips [59, 71].
+Bot 129 made the comparison of chips 59 and 71!
+Sending 59 to Bot 149.
+Added 59 to 149
+Sending 71 to Bot 117.
+Added 71 to 117
+Bot 149 has chips [59].
+Bot 156 has chips [73].
+Bot 173 has chips [43, 47].
+Bot 173 made the comparison of chips 43 and 47!
+Sending 43 to Bot 192.
+Added 43 to 192
+Sending 47 to Bot 126.
+Added 47 to 126
+Bot 192 has chips [41, 43].
+Bot 192 made the comparison of chips 41 and 43!
+Sending 41 to Bot 107.
+Added 41 to 107
+Sending 43 to Bot 188.
+Added 43 to 188
+Bot 199 has chips [61, 67].
+Bot 199 made the comparison of chips 61 and 67!
+Sending 61 to Bot 117.
+Added 61 to 117
+Sending 67 to Bot 156.
+Added 67 to 156
+Output 0 has chips [3].
+Output 1 has chips [13].
+Output 4 has chips [11].
+Output 6 has chips [17].
+Output 7 has chips [5].
+Output 10 has chips [7].
+Output 11 has chips [2].
+Output 18 has chips [23].
+Output 19 has chips [19].
+Output 13 has chips [29].
+Output 2 has chips [31].
